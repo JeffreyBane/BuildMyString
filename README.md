@@ -26,6 +26,7 @@ BuildMyString was initially developed in 2012 after I got completely sick of bui
 
 You need something that can serve PHP pages.<br> 
 That’s it.<br>
+Simply make default.php the start page.<br>
 When open sourced, the PHP version on the hosted server was 5.6.30. It may very well run on earlier versions, however I’ve not tested any.
 
 <h3>Support / Enhancements</h3>
