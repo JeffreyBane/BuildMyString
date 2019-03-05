@@ -36,6 +36,6 @@ Have at it, it's github.
 <h3>Donations Appreciated!</h3>
 
 I’ve put more hours than I can remember into this project over the last 6 years, if you find it at all useful and care to donate, it is very much appreciated:
-https://www.paypal.me/jeffreybane
+<a href="https://www.paypal.me/jeffreybane" target="_blank">https://www.paypal.me/jeffreybane</a>
 
 
