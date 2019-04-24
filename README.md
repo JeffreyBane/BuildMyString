@@ -4,7 +4,7 @@
 
 A string / Stringbuilder escaper, concatenator and general life improvement PHP application for an enhanced sense of well being and bright outlook for the future of mankind.
 
-BuildMyString was initially developed in 2012 after I got completely sick of building and escaping strings manually and found the tools of the time rather bland, featureless and awful. A rather ghetto system of Disqus suggestions was utilized to incorporate fixes and enhancements. The end result after 6 years of continual development is one of the most useful string builders in existence.
+BuildMyString was initially developed in 2012 after I got completely sick of building and escaping strings manually and found the tools of the time rather bland, featureless and awful. A rather ghetto system of Disqus suggestions was utilized to incorporate fixes and enhancements. The end result after 6 years of continual development is one of the most useful string builders in existence. https://www.buildmystring.com
 
 <h3>Currently supported languages:</h3>
 <ul>
